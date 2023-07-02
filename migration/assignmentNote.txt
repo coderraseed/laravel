@@ -1,0 +1,3 @@
+====Task-1====
+I have create Laravel project using CLI 
+composer create laravel/laravel MigrationAssignmen
